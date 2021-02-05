@@ -1,0 +1,8 @@
+prefix=/home/sunnylocus/catkin_ws/devel
+
+Name: parkingdemo_control
+Description: Description of parkingdemo_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

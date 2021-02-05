@@ -1,0 +1,8 @@
+prefix=/home/sunnylocus/catkin_ws/devel
+
+Name: parkingdemo_description
+Description: Description of parkingdemo_description
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
